@@ -3,3 +3,5 @@ test061121\rs-workshop\header.txt
 D:\programming\frontend\verstki\test\test061121\rs-workshop\header.txt
 4234
 new changes
+new info
+dasadas
